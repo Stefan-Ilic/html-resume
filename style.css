@@ -377,3 +377,9 @@ li{
   background-color: #424242;
   height: 10px;
 }
+
+#profile{
+  border: black solid 1px;
+  margin-left: 55px;
+  padding: 5px;
+}
