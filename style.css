@@ -95,7 +95,7 @@ li{
   font-size: 8pt;
 }
 
-/*** categorial blocks ***/
+/*** categorical blocks ***/
 
 .main-block{
   margin-top: 0.1in;
@@ -112,7 +112,7 @@ li{
 }
 
 #main h2 > i{
-  /* use absolute position to prevent icon's width from misaligning title */
+  /* use absolute position to prevent icon's width from mis-aligning title */
   /* assigning a fixed width here is no better due to needing to align decorator
      line too */
   position: absolute;
@@ -194,7 +194,7 @@ li{
  * XXX: Use two filled circles to achieve the circle-with-white-border effect.
  * The normal technique of only using one pseudo element and
  * border: 1px solid white; style makes firefox erroneously either:
- * 1) overflows the grayshade background (if no background-clip is set), or
+ * 1) overflows the gray shade background (if no background-clip is set), or
  * 2) shows decorator line which should've been masked by the white border
  *
  */
